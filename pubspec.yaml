@@ -1,0 +1,37 @@
+name: michelleflutter
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - img/pierna2.jpg
+    - img/pesas.jpg
+    - img/cinta.jpg
+    - img/cinta2.jpg
+    - img/abdomen2.jpg
+    - img/peso.jpg
+    - img/pierna2.jpg
+    - img/gluteos2.jpg
+    - img/pierna.jpg
+    - img/rusa.jpg
+    - img/peso2.jpg
+    - img/estiramiento.jpg
+    - img/estiramiento1.jpg
